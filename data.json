@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Legolize. ",
+    "description": "A Project for Legolizing a Picture.",
+    "date": "03/08/2021",
+    "link": "https://cs50c-week07-assignment.sergiora.repl.co/legra/legra.html"
+  },
+  {
+    "title": "Maps. ",
+    "description": "A Project to Learn the Use of OpenStreetMaps with OpenLayers.",
+    "date": "03/16/2021",
+    "link": "https://cs50c-week08-openstreetmap-assignment.sergiora.repl.co/my-openlayers-map/my-openlayers-map.html"
+  },
+  {
+    "title": "Phas3r. ",
+    "description": "A Project to Learn the Basics of a Phas3r Arcade Game.",
+    "date": "04/26/2021",
+    "link": "https://cs50c-week13-assignment.sergiora.repl.co/my_phaser_game.html"
+  }
+]
